@@ -6,7 +6,6 @@
 ## Our research focuses on the neural mechanisms underlying flexible decision-making.
 
 
-{% include section.html %}
 
 ## We aim to address three fundamental questions:
 
