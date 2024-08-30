@@ -34,15 +34,17 @@ Strategy Tracker is available in [Python](https://github.com/Humphries-Lab/Bayes
 {% endcapture %}
 
 
-
-
 {%
   include feature.html
   image="images/img2b.png"
-  link="https://doi.org/10.7554/eLife.86491"
+  link="research"
+  title="Our Research"
   text=text
   width="500px"
+  className="feature-image large"
 %}
+
+
 
 
 

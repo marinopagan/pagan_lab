@@ -51,3 +51,9 @@ $wrap: 800px;
     max-width: calc($wrap / 2);
   }
 }
+
+
+// Custom
+.feature-image.large {
+  aspect-ratio: 5 / 9;
+}
