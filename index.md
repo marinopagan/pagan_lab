@@ -14,29 +14,6 @@
 
 
 
-
-{% capture text %}
-
-### What neural computations underlie cognitive processes, such as our ability to flexibly form decisions?
-Investigating how, when, and what subjects learn during decision-making tasks requires tracking their choice strategies on a trial-by-trial basis. In our new paper, we present a simple but effective probabilistic approach to tracking choice strategies at trial resolution. We show it identifies both successful learning and the exploratory strategies used in decision tasks performed by humans, non-human primates, rats, and synthetic agents. 
-<br>
-Strategy Tracker is available in [Python](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python) and [MATLAB](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB).
-
-
-{% endcapture %}
-
-
-{%
-  include feature.html
-  image="images/img2d.png"
-  link="research"
-  text=text
-  className="feature-image"
-%}
-
-
-
-
 {% capture text %}
 
 ### What neural computations underlie cognitive processes, such as our ability to flexibly form decisions?
@@ -52,12 +29,61 @@ Strategy Tracker is available in [Python](https://github.com/Humphries-Lab/Bayes
   include feature.html
   image="images/img1.png"
   link="research"
-  title="Our Research"
   text=text
-  width="500px"
-  className="feature-image large"
+  className="feature-image"
+  flip=true
 %}
 
+
+
+{% capture text %}
+
+### Understanding the neural basis of individual variability
+Investigating how, when, and what subjects learn during decision-making tasks requires tracking their choice strategies on a trial-by-trial basis. In our new paper, we present a simple but effective probabilistic approach to tracking choice strategies at trial resolution. We show it identifies both successful learning and the exploratory strategies used in decision tasks performed by humans, non-human primates, rats, and synthetic agents. 
+<br>
+Strategy Tracker is available in [Python](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python) and [MATLAB](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB).
+
+
+{% endcapture %}
+
+
+{%
+  include feature.html
+  image="images/img2d.png"
+  link="research"
+  text=text
+  className="feature-image"
+  flip=true
+%}
+
+
+
+
+
+
+
+
+
+
+{% capture text %}
+
+### How do genetic mutations impact neural circuits underlying cognition in rodents and humans?
+Investigating how, when, and what subjects learn during decision-making tasks requires tracking their choice strategies on a trial-by-trial basis. In our new paper, we present a simple but effective probabilistic approach to tracking choice strategies at trial resolution. We show it identifies both successful learning and the exploratory strategies used in decision tasks performed by humans, non-human primates, rats, and synthetic agents. 
+<br>
+Strategy Tracker is available in [Python](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python) and [MATLAB](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB).
+
+
+{% endcapture %}
+
+
+{%
+  include feature.html
+  image="images/img3.png"
+  link="research"
+  text=text
+  className="feature-image"
+  flip=true
+%}
 
 
 
