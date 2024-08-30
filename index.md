@@ -3,7 +3,7 @@
 
 # Research in cognitive flexibility
 
-
+How does our brain work?
 
 {% include section.html %}
 
