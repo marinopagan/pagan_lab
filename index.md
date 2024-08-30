@@ -1,15 +1,10 @@
 ---
 ---
 
-The lab of Marino Pagan at the [Simons Initiative for the Developing brain](https://sidb.org.uk/) in the University of Edinburgh.
+### Welcome to the Pagan Lab at the [Simons Initiative for the Developing brain](https://sidb.org.uk/).
 
-### Our research focuses on the neural mechanisms underlying flexible decision-making.
+## Our research focuses on the neural mechanisms underlying flexible decision-making.
 
-
-
-We interrogate how the joint activity of many neurons encodes the past, present, and future in order to guide behaviour.  We develop analysis techniques for neural data, and use them to understand what the joint activity is encoding in recordings of hundreds or thousands of neurons, across different tasks, brain circuits, species, and phyla. And we develop theoretical and computational models for how this joint activity arises from neural circuits.
-​<br>
-Supported by the Medical Research Council, the BBSRC, and Innovate UK.
 
 {% include section.html %}
 
@@ -22,14 +17,6 @@ Investigating how, when, and what subjects learn during decision-making tasks re
 <br>
 Strategy Tracker is available in [Python](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python) and [MATLAB](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB).
 
-{%
-  include button.html
-  link="https://doi.org/10.7554/eLife.86491"
-  text="Read 'Tracking subjects' strategies in behavioural choice experiments at trial resolution' at eLife"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
 
 {% endcapture %}
 
@@ -45,6 +32,28 @@ Strategy Tracker is available in [Python](https://github.com/Humphries-Lab/Bayes
 %}
 
 
+
+
+{% capture text %}
+
+### What neural computations underlie cognitive processes, such as our ability to flexibly form decisions?
+Investigating how, when, and what subjects learn during decision-making tasks requires tracking their choice strategies on a trial-by-trial basis. In our new paper, we present a simple but effective probabilistic approach to tracking choice strategies at trial resolution. We show it identifies both successful learning and the exploratory strategies used in decision tasks performed by humans, non-human primates, rats, and synthetic agents. 
+<br>
+Strategy Tracker is available in [Python](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python) and [MATLAB](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB).
+
+
+{% endcapture %}
+
+
+{%
+  include feature.html
+  image="images/img1.png"
+  link="research"
+  title="Our Research"
+  text=text
+  width="500px"
+  className="feature-image large"
+%}
 
 
 
