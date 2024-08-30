@@ -9,6 +9,24 @@
 
 ## We aim to address three fundamental questions:
 
+
+
+### What neural computations underlie cognitive processes, such as our ability to flexibly form decisions?
+Investigating how, when, and what subjects learn during decision-making tasks requires tracking their choice strategies on a trial-by-trial basis. In our new paper, we present a simple but effective probabilistic approach to tracking choice strategies at trial resolution. We show it identifies both successful learning and the exploratory strategies used in decision tasks performed by humans, non-human primates, rats, and synthetic agents. 
+
+
+{%
+  include feature.html
+  image="images/img2c.png"
+  link="research"
+  title="Our Research"
+  text=text
+  width="900px"
+  className="feature-image large"
+%}
+
+
+
 {% capture text %}
 
 ### What neural computations underlie cognitive processes, such as our ability to flexibly form decisions?
