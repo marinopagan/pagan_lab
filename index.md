@@ -49,7 +49,7 @@ Strategy Tracker is available in [Python](https://github.com/Humphries-Lab/Bayes
 
 {%
   include feature.html
-  image="images/img2d.png"
+  image="images/img2.png"
   link="research"
   text=text
   className="feature-image"
