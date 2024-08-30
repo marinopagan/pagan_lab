@@ -45,5 +45,8 @@
     max-width: 400px;
   }
 }
+.feature-image.large {
+  aspect-ratio: 5/9;
+}
 
 /*# sourceMappingURL=feature.css.map */
