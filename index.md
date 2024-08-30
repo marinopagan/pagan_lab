@@ -5,6 +5,8 @@
 
 How does our brain work?
 
+{% this is a test %}
+
 {% include section.html %}
 
 ## Highlights
