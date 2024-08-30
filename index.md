@@ -1,9 +1,11 @@
 ---
 ---
 
-Mark Humphries' lab at the [University of Nottingham School of Psychology](https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx).
+The lab of Marino Pagan at the [Simons Initiative for the Developing brain](https://sidb.org.uk/) in the University of Edinburgh.
 
-### We are a neural data lab.
+### Our research focuses on the neural mechanisms underlying flexible decision-making.
+
+We aim to address three fundamental questions:
 
 We interrogate how the joint activity of many neurons encodes the past, present, and future in order to guide behaviour.  We develop analysis techniques for neural data, and use them to understand what the joint activity is encoding in recordings of hundreds or thousands of neurons, across different tasks, brain circuits, species, and phyla. And we develop theoretical and computational models for how this joint activity arises from neural circuits.
 ​<br>
@@ -38,7 +40,6 @@ Strategy Tracker is available in [Python](https://github.com/Humphries-Lab/Bayes
   text=text
 %}
 
-{% capture text %}
 
 
 
