@@ -1,15 +1,11 @@
 ---
 ---
 
-### Welcome to the Pagan Lab at the [Simons Initiative for the Developing brain](https://sidb.org.uk/).
+### Welcome to the Pagan Lab at the University of Edinburgh
 
-## Our research focuses on the neural mechanisms underlying flexible decision-making.
+Our interactions with the world are highly flexible. Our response to the sensation of our phone ringing is very different in the context of having just heard ‘the play is beginning; please silence all phones’ versus a context in which we have just been told ‘your child’s school is about to call with urgent information’. In our laboratory, we use a combination of experimental and computational approaches to investigate the neural mechanisms underlying our remarkable ability to flexibly select the relevant information to guide our decisions.
 
-
-
-## We aim to address three fundamental questions:
-
-
+In particular, we aim to address three fundamental questions:
 
 
 
@@ -89,6 +85,29 @@ Strategy Tracker is available in [Python](https://github.com/Humphries-Lab/Bayes
 
 
 
+
+
+
+How does our brain flexibly select 
+
+
+For example, if we hear our name called, and our goal is to discern where the caller is, we might focus on the sound’s location; but if we first want to identify the caller, we might focus instead on the sound’s pitch and timbre.
+
+If my name is called out, and my goal is to turn towards the caller, the sound’s location will guide my actions. But if my goal is to respond based on the caller’s identity, the sound’s frequencies will drive my actions.
+
+Our response to the sensation of our phone ringing will be very different in the context of having just heard ‘the play is beginning; please silence all phones’ versus a context in which we have just been told ‘your child’s school is about to call with urgent information’. 
+
+
+ability to flexibly select the relevant information to guide our decisions is a . For example, if we hear our name called, and want to discern where the caller is, we might focus on the sound’s location; but if we first want to identify the caller, we might focus instead on the sound’s pitch and timbre.
+
+
+[Simons Initiative for the Developing brain](https://sidb.org.uk/).
+
+## Our research focuses on the neural mechanisms underlying flexible decision-making.
+
+
+
+## We aim to address three fundamental questions:
 
 
 
