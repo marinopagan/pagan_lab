@@ -22,7 +22,6 @@ To study the neural basis of flexible decision-making, we train rats to solve so
 {%
   include feature.html
   image="images/img1.png"
-  link="research"
   text=text
   className="feature-image"
   flip=true
@@ -42,7 +41,6 @@ To study the neural basis of flexible decision-making, we train rats to solve so
 {%
   include feature.html
   image="images/img2.png"
-  link="research"
   text=text
   className="feature-image"
   flip=true
@@ -64,7 +62,6 @@ Deficits in cognitive flexibility and decision-making are a profoundly debilitat
 {%
   include feature.html
   image="images/img3.png"
-  link="research"
   text=text
   className="feature-image"
   flip=true
