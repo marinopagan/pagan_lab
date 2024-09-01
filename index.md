@@ -32,12 +32,9 @@ To study the neural basis of flexible decision-making, we train rats to solve so
 
 {% capture text %}
 
-## How do neural computations underlying flexible behavior vary across individuals?
+## How do neural computations underlying cognitive behavior vary across individuals?
 
-Investigating how, when, and what subjects learn during decision-making tasks requires tracking their choice strategies on a trial-by-trial basis. In our new paper, we present a simple but effective probabilistic approach to tracking choice strategies at trial resolution. We show it identifies both successful learning and the exploratory strategies used in decision tasks performed by humans, non-human primates, rats, and synthetic agents. 
-<br>
-Strategy Tracker is available in [Python](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python) and [MATLAB](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB).
-
+[Our recent work show that individual rats use different neural mechanisms to perform flexible decision-making](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python). These findings suggest that traditional approaches involving averaging data across subjects might obscure important biological substrates of cognition, and highlight the need for methods that measure and characterize these neural circuits at the level of individual animals. To achieve this goal, we leverage a system for automated, high-throughput behavioral training, integrated with wireless electrophysiology and optogenetics.
 
 {% endcapture %}
 
