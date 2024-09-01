@@ -12,7 +12,7 @@ Our goal is to address three fundamental questions:
 
 {% capture text %}
 
-## What neural mechanisms underlie our ability to flexibly form decisions?
+# What neural mechanisms underlie our ability to flexibly form decisions?
 
 To study the neural basis of flexible decision-making, we train rats to solve sophisticated tasks with rapidly changing rules. In these tasks, rats learn to use contextual information to flexibly form decisions about sensory stimuli. We then study neural responses during this behavior, and we build computational models to understand the underlying mechanisms.
 
@@ -52,18 +52,11 @@ To study the neural basis of flexible decision-making, we train rats to solve so
 
 
 
-
-
-
-
-
 {% capture text %}
 
-### How do genetic mutations impact neural circuits underlying cognition in rodents and humans?
-Investigating how, when, and what subjects learn during decision-making tasks requires tracking their choice strategies on a trial-by-trial basis. In our new paper, we present a simple but effective probabilistic approach to tracking choice strategies at trial resolution. We show it identifies both successful learning and the exploratory strategies used in decision tasks performed by humans, non-human primates, rats, and synthetic agents. 
-<br>
-Strategy Tracker is available in [Python](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python) and [MATLAB](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB).
+### How do genetic mutations impact neural circuits underlying flexible decision-making?
 
+Deficits in cognitive flexibility and decision-making are a profoundly debilitating feature in many neurodevelopmental disorders. Recent studies have made significant progress in identifying the genetic causes of these disorders, but the mechanisms linking genetic mutations to cognitive deficits are still largely unknown. To address this problem, we study how flexible decision-making is altered in rat models of neurodevelopmental disorders.
 
 {% endcapture %}
 
