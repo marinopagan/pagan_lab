@@ -3,9 +3,9 @@
 
 ### Welcome to the Pagan Lab at the University of Edinburgh
 
-Our interactions with the world are highly flexible. If we hear our phone ringing, our response will be very different if we are at the theater watching a play, or if we are at home waiting for an important call. In general, our thoughts and actions depend heavily on contextual information, including our goals, past experience, and future expectations. How does our brain integrate such contextual information with the constant stream of sensory stimuli to flexibly guide our decisions?
+Our interactions with the world are highly flexible. If we hear our phone ringing, our response will be very different if we are at the theater watching a play, or if we are at home waiting for an important call. More generally, our thoughts and actions depend heavily on the current "context", which includes our goals, past experience, and future expectations. How does our brain integrate such contextual information with the constant stream of sensory stimuli to flexibly guide our decisions?
 
-In our laboratory, we address this question using a combination of computational, behavioral, electrophysiological, and optogenetic techniques. Studying the neural mechanisms underlying cognitive flexibility and decision-making, we hope to understand how these fundamental cognitive processes are disrupted in neuropsychiatric and neurodevelopmental disorders.
+In our laboratory, we address this question using a combination of computational, behavioral, electrophysiological, and optogenetic techniques. By investigating the neural mechanisms underlying cognitive flexibility and decision-making, we aim to understand how these fundamental cognitive processes are disrupted in neuropsychiatric and neurodevelopmental disorders.
 
 Our goal is to address three fundamental questions:
 
@@ -13,6 +13,8 @@ Our goal is to address three fundamental questions:
 {% capture text %}
 
 ### What neural computations underlie our ability to flexibly form decisions?
+
+We recently developed a new task
 Investigating how, when, and what subjects learn during decision-making tasks requires tracking their choice strategies on a trial-by-trial basis. In our new paper, we present a simple but effective probabilistic approach to tracking choice strategies at trial resolution. We show it identifies both successful learning and the exploratory strategies used in decision tasks performed by humans, non-human primates, rats, and synthetic agents. 
 <br>
 Strategy Tracker is available in [Python](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python) and [MATLAB](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB).
@@ -27,7 +29,7 @@ Strategy Tracker is available in [Python](https://github.com/Humphries-Lab/Bayes
   link="research"
   text=text
   className="feature-image"
-  flip=true
+  flip=false
 %}
 
 
