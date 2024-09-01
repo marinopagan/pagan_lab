@@ -12,7 +12,7 @@ Our goal is to address three fundamental questions:
 
 {% capture text %}
 
-### What neural computations underlie our ability to flexibly form decisions?
+## What neural mechanisms underlie our ability to flexibly form decisions?
 
 To study the neural basis of flexible decision-making, we train rats to solve sophisticated tasks with rapidly changing rules. In these tasks, rats learn to use contextual information to flexibly form decisions about sensory stimuli. We then study neural responses during this behavior, and we build computational models to understand the underlying mechanisms.
 
@@ -32,7 +32,8 @@ To study the neural basis of flexible decision-making, we train rats to solve so
 
 {% capture text %}
 
-### Understanding the neural basis of individual variability
+## How do neural computations underlying flexible behavior vary across individuals?
+
 Investigating how, when, and what subjects learn during decision-making tasks requires tracking their choice strategies on a trial-by-trial basis. In our new paper, we present a simple but effective probabilistic approach to tracking choice strategies at trial resolution. We show it identifies both successful learning and the exploratory strategies used in decision tasks performed by humans, non-human primates, rats, and synthetic agents. 
 <br>
 Strategy Tracker is available in [Python](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python) and [MATLAB](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB).
