@@ -3,16 +3,16 @@
 
 ### Welcome to the Pagan Lab at the University of Edinburgh
 
-Our interactions with the world are highly flexible. Our response to the sensation of our phone ringing is very different in the context of having just heard ‘the play is beginning; please silence all phones’ versus a context in which we have just been told ‘your child’s school is about to call with urgent information’. In our laboratory, we use a combination of experimental and computational approaches to investigate the neural mechanisms underlying our remarkable ability to flexibly select the relevant information to guide our decisions.
+Our interactions with the world are highly flexible. If we hear our phone ringing, our response will be very different if we are at the theater watching a play, or if we are at home waiting for an important call. In general, our thoughts and actions depend heavily on contextual information, including our goals, past experience, and future expectations. How does our brain integrate such contextual information with the constant stream of sensory stimuli to flexibly guide our decisions?
 
-In particular, we aim to address three fundamental questions:
+In our laboratory, we address this question using a combination of computational, behavioral, electrophysiological, and optogenetic techniques. Studying the neural mechanisms underlying cognitive flexibility and decision-making, we hope to understand how these fundamental cognitive processes are disrupted in neuropsychiatric and neurodevelopmental disorders.
 
-
+Our goal is to address three fundamental questions:
 
 
 {% capture text %}
 
-### What neural computations underlie cognitive processes, such as our ability to flexibly form decisions?
+### What neural computations underlie our ability to flexibly form decisions?
 Investigating how, when, and what subjects learn during decision-making tasks requires tracking their choice strategies on a trial-by-trial basis. In our new paper, we present a simple but effective probabilistic approach to tracking choice strategies at trial resolution. We show it identifies both successful learning and the exploratory strategies used in decision tasks performed by humans, non-human primates, rats, and synthetic agents. 
 <br>
 Strategy Tracker is available in [Python](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python) and [MATLAB](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB).
@@ -111,6 +111,28 @@ ability to flexibly select the relevant information to guide our decisions is a 
 
 
 
+train rats and mice to perform tasks that require cognitive components that we’re interested in studying. For example, we train them to remember a stimulus for a few seconds, and to then make a behavior based on their memory of the stimulus. We can then study neural responses during this behavior, and observe the neural correlates of short-term memory. To help us understand the mechanisms behind our findings, we build computational models of networks of spiking neurons, with which we explore the circuit architectures and mechanistic hypotheses that could explain the experimental results. The models both give us greater insight into potential mechanisms, and help us decide what are the best next experiments to test and distinguish between hypotheses.
+
+experimental and computational approaches.
+
+
+ to investigate the neural mechanisms underlying our remarkable ability to flexibly select the relevant information to guide our decisions.
+
+
+How does our brain use this contextual information to flexibly 
+
+
+
+the same identical sensory stimulus will elicit different 
+
+
+our thoughts and decisions are an identical sensory stimulus can lead to 
+
+
+What neural mechanisms underlie our remarkable ability to use contextual cues to flexibly select the relevant information to guide our decisions?
+
+
+In our laboratory, we use a combination of experimental and computational approaches to investigate the neural mechanisms underlying our remarkable ability to flexibly select the relevant information to guide our decisions.
 
 
 
