@@ -1,8 +1,8 @@
 ---
-name: Jane Smith
+name: Marino Pagan
 image: images/photo.jpg
 role: pi
-affiliation: University of Colorado
+affiliation: University of Edinburgh
 aliases:
   - J. Smith
   - J Smith

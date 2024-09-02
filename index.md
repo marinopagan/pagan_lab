@@ -3,7 +3,7 @@
 
 ### Welcome to the Pagan Lab at the University of Edinburgh
 
-Our interactions with the world are highly flexible. For example, our response to the sound of our phone ringing will be very different if we are watching a play at the theater, or if we are anxiously waiting for an important call. More generally, our thoughts and actions depend heavily on the current "context", which includes our goals, past experience, and future expectations. How does our brain integrate such contextual information with the constant stream of sensory stimuli to flexibly guide our decisions?
+Our interactions with the world are highly flexible. For example, our response to the sound of our phone ringing will be very different if we are watching a play at the theater, or if we are anxiously waiting for an important call. More generally, our thoughts and actions depend heavily on "context", which includes our goals, past experience, and future expectations. How does our brain integrate such contextual information with the constant stream of sensory stimuli to flexibly guide our decisions?
 
 In our laboratory, we address this question using a combination of computational, behavioral, electrophysiological, and optogenetic techniques. By investigating the neural mechanisms underlying cognitive flexibility and decision-making, we aim to understand how these fundamental cognitive processes are disrupted in neuropsychiatric and neurodevelopmental disorders.
 
