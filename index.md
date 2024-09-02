@@ -72,3 +72,10 @@ Deficits in cognitive flexibility and decision-making are a profoundly debilitat
 
 {% include section.html %}
 
+Our laboratory is part of SIDB and CDBS . we are very collaborative with SIDB, CDBS, other researchers in the University of Edinburgh and the scientific community in general. 
+We are supported by generous funding by ...
+Put icons of affiliations and funders here!
+
+
+
+
