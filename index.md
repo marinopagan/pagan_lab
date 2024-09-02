@@ -33,7 +33,7 @@ To study the neural basis of flexible decision-making, we train rats to solve so
 
 ### How do neural computations underlying cognitive behavior vary across individuals?
 
-[Our recent work show that individual rats use different neural mechanisms to perform flexible decision-making](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python). These findings suggest that traditional approaches involving averaging data across subjects might obscure important biological substrates of cognition, and highlight the need for methods that measure and characterize these neural circuits at the level of individual animals. To achieve this goal, we leverage a system for automated, high-throughput behavioral training, integrated with wireless electrophysiology and optogenetics.
+[Our recent work show that individual rats use different neural mechanisms to perform flexible decision-making](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python). These findings highlight the need for methods that measure and characterize these neural circuits at the level of individual animals. To achieve this goal, we leverage a system for automated, high-throughput behavioral training, integrated with wireless electrophysiology and optogenetics. To characterize individual differences, we study how learning differs across subjects, and how even subjects with same optimal performances might reach different solutions ** MUST IMPROVE THIS PART
 
 {% endcapture %}
 
