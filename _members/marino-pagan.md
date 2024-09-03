@@ -16,5 +16,5 @@ Joining the laboratory of Carlos Brody at Princeton University for my postdoctor
 
 Then, with the support of a SCGB postdoctoral Fellowship, I developed a novel behavioral paradigm requiring context-dependent decision-making in rats, and a high-throughput platform for the execution of electrophysiology and optogenetics experiments in freely-moving, behaving rats. 
 
-With the support of a SFARI Bridge to Independence Fellowship, I am starting my lab at the Simons Initiative for the Developing Brain, a highly collaborative research centre within the University of Edinburgh. Here, I plan to leverage experimental and computational techniques to dissect the neural substrates of flexible behavior, and to study how the relevant circuits are altered by genetic mutations associated with neurodevelopmental disorders such as Autism Spectrum Disorder.
+With the support of a SFARI Bridge to Independence Fellowship, I am starting my lab at the Simons Initiative for the Developing Brain, a highly collaborative research centre within the University of Edinburgh. Here, I leverage experimental and computational techniques to dissect the neural substrates of flexible behavior, and to study how the relevant circuits are altered by genetic mutations associated with neurodevelopmental disorders.
 
