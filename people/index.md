@@ -5,23 +5,23 @@ nav:
   tooltip: About our team
 ---
 
-### {% include icon.html icon="fa-solid fa-users" %}Lab members
+### Lab members
 
 
-{% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 
+{% include section.html %}
 
-### {% include icon.html icon="fa-solid fa-users" %}Collaborators
+### Collaborators
 
 
-[Peter Kind](https://kindlab.co.uk/) <br/>
-[Richard Morris](https://kindlab.co.uk/) <br/>
-[Oliver Hardt](https://kindlab.co.uk/) <br/>
-[Angus Chadwick](https://kindlab.co.uk/) <br/>
+[Peter Kind](https://sidb.org.uk/peter-kind/) <br/>
+[Richard Morris](https://sidb.org.uk/richard-morris) <br/>
+[Oliver Hardt](https://sidb.org.uk/oliver-hardt/) <br/>
+[Angus Chadwick](https://homepages.inf.ed.ac.uk/achadwic/index.html) <br/>
 
 
 {% include section.html background="images/background.jpg" dark=true %}
