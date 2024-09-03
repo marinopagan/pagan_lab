@@ -15,7 +15,7 @@ Our goal is to address three fundamental questions:
 
 ### What neural mechanisms underlie our ability to flexibly form decisions?
 
-To study the neural basis of flexible decision-making, we train rats to solve sophisticated tasks with rapidly changing rules. To solve these tasks, rats must use contextual information to flexibly form decisions about sensory stimuli. We then study neural responses during this behavior, and we build computational models to understand the underlying mechanisms.
+To study the neural basis of flexible decision-making, we train rats to solve sophisticated tasks with rapidly changing rules. To solve these tasks, rats learn to use contextual information to flexibly form decisions about sensory stimuli. We then study neural responses during this behavior, and we build computational models to understand the underlying mechanisms.
 
 {% endcapture %}
 
