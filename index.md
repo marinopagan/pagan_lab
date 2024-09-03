@@ -81,7 +81,7 @@ Deficits in cognitive flexibility and decision-making are a profoundly debilitat
 
 Our laboratory is part of the [Simons Initiative for the Developing Brain (SIDB)](https://sidb.org.uk/) and the [Centre for Discovery Brain Sciences (CDBS)](https://discovery-brain-sciences.ed.ac.uk/) at the University of Edinburgh. We fully embrace the spirit of collaboration of SIDB and CDBS and collaborate with many researchers within the Institutes and the University.
 
-We are currently supported by generous funding by the [Simons Foundation Autism Research Initiative](https://www.sfari.org/) and SIDB.
+We are currently supported by generous funding by the [Simons Foundation Autism Research Initiative (SFARI)](https://www.sfari.org/) and SIDB.
 
 
 {% capture col1 %}
