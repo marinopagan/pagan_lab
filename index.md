@@ -33,7 +33,7 @@ To study the neural basis of flexible decision-making, we train rats to solve so
 
 ### How do neural computations underlying cognitive behavior vary across individuals?
 
-[Our recent work show that individual rats use different neural mechanisms to perform flexible decision-making](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python). These findings highlight the need for methods that measure and characterize these neural circuits at the level of individual animals. To achieve this goal, we leverage a system for automated, high-throughput behavioral training, integrated with wireless electrophysiology and optogenetics. To characterize individual differences, we study how learning differs across subjects, and how even subjects with same optimal performances might reach different solutions ** MUST IMPROVE THIS PART
+We found that [individual rats use different neural mechanisms to solve flexible decision-making](https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python). These findings highlight the need for methods that measure and characterize these neural circuits at the level of individual animals. To achieve this goal, we leverage a system for automated, high-throughput behavioral training, integrated with wireless electrophysiology and optogenetics. To understand why circuits differ after subjects learn the task, we aim to explore the behavioral and neural correlates of individual learning trajectories.
 
 {% endcapture %}
 
@@ -72,9 +72,15 @@ Deficits in cognitive flexibility and decision-making are a profoundly debilitat
 
 {% include section.html %}
 
-Our laboratory is part of SIDB and CDBS . we are very collaborative with SIDB, CDBS, other researchers in the University of Edinburgh and the scientific community in general. 
-We are supported by generous funding by ...
-Put icons of affiliations and funders here!
+
+### Funding and Support
+
+
+Our laboratory is part of the [Simons Initiative for the Developing Brain (SIDB)](https://sidb.org.uk/) and the [Centre for Discovery Brain Sciences (CDBS)](https://discovery-brain-sciences.ed.ac.uk/) at the University of Edinburgh. We fully embrace the spirit of collaboration of SIDB and CDBS and collaborate with many researchers within the Institutes.
+
+We are currently supported by generous funding by the [Simons Foundation Autism Research Initiative](https://www.sfari.org/) and SIDB.
+
+
 
 
 
