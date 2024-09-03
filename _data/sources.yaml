@@ -14,7 +14,15 @@
   image: images/pagan2014b.png
 
 - id: doi:10.1523/JNEUROSCI.4040-13.2014
+  image: images/pagan2014a.png
 
 - id: arxiv:0811.3247
+  image: images/lemke.png
 
 - id: arxiv:2309.04030
+  image: images/pagan2023.png
+
+- id: doi:10.1101/2022.11.28.518207
+  publisher: biorXiv
+  image: images/pagan2022.png
+  
