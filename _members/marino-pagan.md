@@ -10,7 +10,7 @@ links:
 
 My main scientific interest focuses on the neural mechanisms underlying cognitive flexibility, our remarkable ability to rapidly switch our thoughts and actions across different tasks.
 
-I received my B.S. in Computer Engineering and my M.S. in Control Engineering from Scuola Superiore Sant’Anna and University of Pisa in Italy. I completed my Ph.D. in Neuroscience at University of Pennsylvania in the lab of Nicole Rust, where I studied the circuits responsible for our ability to switch between different sought visual targets.  INSERT LINKS
+I received my B.S. in Computer Engineering and my M.S. in Control Engineering from Scuola Superiore Sant’Anna and University of Pisa in Italy. I completed my Ph.D. in Neuroscience at University of Pennsylvania in the lab of Nicole Rust, where I studied the circuits responsible for our ability to switch between different sought visual targets.
 
 Joining the laboratory of Carlos Brody at Princeton University for my postdoctoral studies, I aimed to train rats to solve complex rule switching tasks traditionally studied in primates, while leveraging the powerful experimental tools available in rodents. First, in collaboration with Ann Duan and Alex Piet, I studied the neural mechanisms in the superior colliculus underlying rapid sensorimotor remapping.
 
