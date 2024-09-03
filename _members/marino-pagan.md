@@ -17,3 +17,4 @@ Then, with the support of a [SCGB postdoctoral Fellowship](https://www.simonsfou
 
 With the support of a [SFARI Bridge to Independence Fellowship](https://www.sfari.org/people/marino-pagan/), I am starting my lab at the Simons Initiative for the Developing Brain, a highly collaborative research centre within the University of Edinburgh. Here, I leverage experimental and computational techniques to dissect the neural substrates of flexible behavior, and to study how the relevant circuits are altered by genetic mutations associated with neurodevelopmental disorders.
 
+Download my [CV](assets/CV_Pagan.pdf).
