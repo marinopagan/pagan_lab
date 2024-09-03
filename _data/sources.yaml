@@ -1,28 +1,37 @@
 - id: doi:10.1038/s41593-021-00865-x
   image: images/duan_pagan2021.png
+  link: https://www.marinopagan.com/pagan_lab/assets/Duan_Pagan_et_al_2021.pdf
 
 - id: doi:10.1038/nn.3433
   image: images/pagan2013a.png
+  link: https://www.marinopagan.com/pagan_lab/assets/Pagan_et_al_2013.pdf
 
 - id: doi:10.1371/journal.pcbi.1003167
   image: images/ploscompbio2013.png
+  link: https://www.marinopagan.com/pagan_lab/assets/Baldassi_Alemi-Neissi_Pagan_et_al_2013.pdf
 
 - id: doi:10.1162/NECO_a_00890
   image: images/pagan2016.png
+  link: https://www.marinopagan.com/pagan_lab/assets/Pagan_et_al_2016.pdf
 
 - id: doi:10.1152/jn.00260.2014
   image: images/pagan2014b.png
+  link: https://www.marinopagan.com/pagan_lab/assets/Pagan_Rust_2014b.pdf
 
 - id: doi:10.1523/JNEUROSCI.4040-13.2014
   image: images/pagan2014a.png
+  link: https://www.marinopagan.com/pagan_lab/assets/Pagan_Rust_2014.pdf
 
 - id: arxiv:0811.3247
   image: images/lemke.png
+  link: https://www.marinopagan.com/pagan_lab/assets/Codenotti_DeRossi_Pagan_2008.pdf
 
 - id: arxiv:2309.04030
   image: images/pagan2023.png
+  link: https://www.marinopagan.com/pagan_lab/assets/Pagan_et_al_2023.pdf
 
 - id: doi:10.1101/2022.11.28.518207
   publisher: biorXiv
   image: images/pagan2022.png
+  link: https://www.marinopagan.com/pagan_lab/assets/Pagan_et_al_2022.pdf
   
