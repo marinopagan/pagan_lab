@@ -2,7 +2,6 @@
 name: Marino Pagan
 image: images/marino.jpg
 role: pi
-affiliation: University of Edinburgh
 links:
   home-page: https://sidb.org.uk/marino-pagan/
   orcid: 0000-0002-4376-0283
