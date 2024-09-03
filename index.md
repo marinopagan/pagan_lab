@@ -1,9 +1,7 @@
 ---
 ---
 
-### Welcome to the Pagan Lab at the University of Edinburgh
-
-Our interactions with the world are highly flexible. For example, our response to the sound of our phone ringing will be very different if we are watching a play at the theater, or if we are anxiously waiting for an important call. More generally, our thoughts and actions depend heavily on "context", which includes our goals, past experience, and future expectations. How does our brain integrate such contextual information with the constant stream of sensory stimuli to flexibly guide our decisions?
+Our interactions with the world are highly flexible. For example, our response to the sound of our phone ringing is very different if we are at the theater watching a play, or if we are anxiously waiting for an important call. More generally, our thoughts and actions depend heavily on the current context, which includes our goals, past experience, and future expectations. How does our brain integrate such contextual information with the constant stream of sensory stimuli to flexibly guide our decisions?
 
 In our laboratory, we address this question using a combination of computational, behavioral, electrophysiological, and optogenetic techniques. By investigating the neural mechanisms underlying cognitive flexibility and decision-making, we aim to understand how these fundamental cognitive processes are disrupted in neuropsychiatric and neurodevelopmental disorders.
 
@@ -36,7 +34,7 @@ To study the neural basis of flexible decision-making, we train rats to solve so
 
 ### How do neural computations underlying cognitive behavior vary across individuals?
 
-[Our recent work](https://doi.org/gsx659) suggests that individual rats use different neural mechanisms to form flexible decisions. These findings highlight the need for methods that measure and characterize neural circuits at the level of individual animals. To achieve this goal, we leverage a system for automated, high-throughput behavioral training, integrated with wireless electrophysiology and optogenetics. To better understand differences across trained subjects, we study the behavioral and neural correlates of individual learning trajectories.
+[Our recent work](https://doi.org/gsx659) indicates that individual rats can use different neural mechanisms to perform an identical cognitive task. These findings highlight the importance of measuring and characterizing neural circuits at the level of individual animals. To achieve this goal, we leverage a system for automated, high-throughput behavioral training, integrated with wireless electrophysiology and optogenetics. These techniques allow us to study the learning trajectory of each individual animal, uncovering the neural substrates of individual variability.
 
 {% endcapture %}
 
