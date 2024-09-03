@@ -4,7 +4,7 @@ image: images/nuria.jpg
 description: Postdoctoral Researcher
 role: postdoc
 links:
-  email: sarah.johnson@gmail.com
+  email: nuria.garcia@ed.ac.uk
   twitter: sarahjohnson
 ---
 
