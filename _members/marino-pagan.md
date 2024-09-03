@@ -1,6 +1,6 @@
 ---
 name: Marino Pagan
-image: images/photo.jpg
+image: images/marino.jpg
 role: pi
 affiliation: University of Edinburgh
 aliases:

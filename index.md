@@ -85,19 +85,19 @@ We are currently supported by generous funding by the [Simons Foundation Autism 
 
 
 {% capture col1 %}
-<img src="images/simons.webp">
+<img src="images/simons.png" width=20%>
 {% endcapture %}
 
 {% capture col2 %}
-<img src="images/sidb.jpg">
+<img src="images/sidb.jpg" width=20%>
 {% endcapture %}
 
 {% capture col3 %}
-<img src="images/cdbs.webp">
+<img src="images/cdbs.webp" width=20%>
 {% endcapture %}
 
 {% capture col4 %}
-<img src="images/edacuk.png">
+<img src="images/edacuk.png" width=20%>
 {% endcapture %}
 
 

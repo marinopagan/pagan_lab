@@ -1,6 +1,6 @@
 ---
 name: Nuria Garcia Font
-image: images/photo.jpg
+image: images/nuria.jpg
 description: Postdoctoral Researcher
 role: programmer
 links:
