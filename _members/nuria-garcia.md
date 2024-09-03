@@ -5,6 +5,7 @@ description: Postdoctoral Researcher
 role: postdoc
 links:
   email: nuria.garcia@ed.ac.uk
+  google-scholar: BRWwxYwAAAAJ
 ---
 
 .
