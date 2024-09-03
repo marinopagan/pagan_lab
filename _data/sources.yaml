@@ -1,6 +1,15 @@
 - id: doi:10.1038/s41593-021-00865-x
   image: images/duan_pagan2021.png
   link: https://www.marinopagan.com/pagan_lab/assets/Duan_Pagan_et_al_2021.pdf
+  authors:
+  - Chunyu A. Duan*
+  - Marino Pagan*
+  - Alex T. Piet*
+  - Charles D. Kopec
+  - Athena Akrami
+  - Alexander J. Riordan
+  - Jeffrey C. Erlich
+  - Carlos D. Brody
 
 - id: doi:10.1038/nn.3433
   image: images/pagan2013a.png
@@ -9,6 +18,13 @@
 - id: doi:10.1371/journal.pcbi.1003167
   image: images/ploscompbio2013.png
   link: https://www.marinopagan.com/pagan_lab/assets/Baldassi_Alemi-Neissi_Pagan_et_al_2013.pdf
+  authors:
+  - Carlo Baldassi*
+  - Alireza Alemi-Neissi*
+  - Marino Pagan*
+  - James J. DiCarlo
+  - Riccardo Zecchina
+  - Davide Zoccolan
 
 - id: doi:10.1162/NECO_a_00890
   image: images/pagan2016.png
