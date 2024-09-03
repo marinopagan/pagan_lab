@@ -20,7 +20,7 @@ Edinburgh EH8 9LD
 %}
 {%
   include button.html
-  type="address"
+  type="map"
   tooltip="Our location"
   link="https://maps.app.goo.gl/o9hPYEKXwz6gcX8v6"
 %}
