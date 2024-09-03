@@ -10,6 +10,9 @@ In our laboratory, we address this question using a combination of computational
 Our goal is to address three fundamental questions:
 
 
+{% include section.html %}
+
+
 {% capture text %}
 
 ### What neural mechanisms underlie our ability to flexibly form decisions?
