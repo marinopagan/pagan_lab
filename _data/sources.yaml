@@ -2,9 +2,9 @@
   image: images/duan_pagan2021.png
   link: https://www.marinopagan.com/pagan_lab/assets/Duan_Pagan_et_al_2021.pdf
   authors:
-  - Chunyu A. Duan(*)
-  - Marino Pagan(*)
-  - Alex T. Piet(*)
+  - Chunyu A. Duan
+  - Marino Pagan
+  - Alex T. Piet
   - Charles D. Kopec
   - Athena Akrami
   - Alexander J. Riordan
@@ -19,9 +19,9 @@
   image: images/ploscompbio2013.png
   link: https://www.marinopagan.com/pagan_lab/assets/Baldassi_Alemi-Neissi_Pagan_et_al_2013.pdf
   authors:
-  - Carlo Baldassi(*)
-  - Alireza Alemi-Neissi(*)
-  - Marino Pagan(*)
+  - Carlo Baldassi
+  - Alireza Alemi-Neissi
+  - Marino Pagan
   - James J. DiCarlo
   - Riccardo Zecchina
   - Davide Zoccolan
