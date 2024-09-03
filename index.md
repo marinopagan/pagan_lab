@@ -77,7 +77,7 @@ Deficits in cognitive flexibility and decision-making are a profoundly debilitat
 #### Funding and Support
 
 
-Our laboratory is part of the [Simons Initiative for the Developing Brain (SIDB)](https://sidb.org.uk/) and the [Centre for Discovery Brain Sciences (CDBS)](https://discovery-brain-sciences.ed.ac.uk/) at the University of Edinburgh. Our lab is a member of the [Autism Rat Consortium](https://www.sfari.org/resource/autism-rat-consortium/).
+Our laboratory is part of the [Simons Initiative for the Developing Brain (SIDB)](https://sidb.org.uk/) and the [Centre for Discovery Brain Sciences (CDBS)](https://discovery-brain-sciences.ed.ac.uk/) at the University of Edinburgh. In addition, we are part of the [Autism Rat Consortium](https://www.sfari.org/resource/autism-rat-consortium/).
 
 We are currently supported by generous funding by the [Simons Foundation Autism Research Initiative (SFARI)](https://www.sfari.org/) and SIDB.
 
