@@ -61,6 +61,7 @@
   publisher: PLoS Computational Biology
   date: '2013-08-08'
   link: https://doi.org/f5cn3q
+  image: images/ploscompbio2013.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1162/NECO_a_00890
