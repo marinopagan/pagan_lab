@@ -85,7 +85,7 @@ We are currently supported by generous funding by the [Simons Foundation Autism 
 
 
 {% capture col1 %}
-<img src="images/simons.png">
+<img src="images/simons2.png">
 {% endcapture %}
 
 {% capture col2 %}
@@ -96,12 +96,8 @@ We are currently supported by generous funding by the [Simons Foundation Autism 
 <img src="images/cdbs.webp">
 {% endcapture %}
 
-{% capture col4 %}
-<img src="images/edacuk.png">
-{% endcapture %}
 
-
-{% include cols.html col1=col1 col2=col2 col3=col3 col4=col4%}
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 
 
