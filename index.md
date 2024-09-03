@@ -81,6 +81,7 @@ Our laboratory is part of the [Simons Initiative for the Developing Brain (SIDB)
 We are currently supported by generous funding by the [Simons Foundation Autism Research Initiative](https://www.sfari.org/) and SIDB.
 
 {% include figure.html image="images/sidb.jpg" width="10%" %}
+{% include figure.html image="images/cdbs.webp" width="10%" %}
 
 
 
