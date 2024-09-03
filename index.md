@@ -15,7 +15,7 @@ Our goal is to address three fundamental questions:
 
 ### What neural mechanisms underlie our ability to flexibly form decisions?
 
-To study the neural basis of flexible decision-making, we train rats to solve sophisticated tasks with rapidly changing rules. In these tasks, rats learn to use contextual information to flexibly form decisions about sensory stimuli. We then study neural responses during this behavior, and we build computational models to understand the underlying mechanisms.
+To study the neural basis of flexible decision-making, we train rats to solve sophisticated tasks with rapidly changing rules. To solve these tasks, rats must use contextual information to flexibly form decisions about sensory stimuli. We then study neural responses during this behavior, and we build computational models to understand the underlying mechanisms.
 
 {% endcapture %}
 
@@ -34,7 +34,7 @@ To study the neural basis of flexible decision-making, we train rats to solve so
 
 ### How do neural computations underlying cognitive behavior vary across individuals?
 
-[Our recent work](https://doi.org/gsx659) indicates that individual rats can use different neural mechanisms to perform an identical cognitive task. These findings highlight the importance of measuring and characterizing neural circuits at the level of individual animals. To achieve this goal, we leverage a system for automated, high-throughput behavioral training, integrated with wireless electrophysiology and optogenetics. These techniques allow us to study the learning trajectory of each individual animal, uncovering the neural substrates of individual variability.
+[Our recent work](https://doi.org/gsx659) indicates that individual rats can use different neural mechanisms to perform an identical cognitive task. These findings highlight the importance of measuring and characterizing neural circuits at the level of individual animals. To achieve this goal, we leverage a system for automated, high-throughput behavioral training, integrated with wireless electrophysiology and optogenetics. These techniques allow us to study the learning trajectory of each individual animal, and to explore the neural substrates of individual variability.
 
 {% endcapture %}
 
