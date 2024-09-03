@@ -21,9 +21,9 @@
 - id: doi:10.1038/s41593-021-00865-x
   title: Collicular circuits for flexible sensorimotor routing
   authors:
-  - Chunyu A. Duan
-  - Marino Pagan
-  - Alex T. Piet
+  - Chunyu A. Duan*
+  - Marino Pagan*
+  - Alex T. Piet*
   - Charles D. Kopec
   - Athena Akrami
   - Alexander J. Riordan
@@ -53,9 +53,9 @@
   title: Shape Similarity, Better than Semantic Membership, Accounts for the Structure
     of Visual Object Representations in a Population of Monkey Inferotemporal Neurons
   authors:
-  - Carlo Baldassi
-  - Alireza Alemi-Neissi
-  - Marino Pagan
+  - Carlo Baldassi*
+  - Alireza Alemi-Neissi*
+  - Marino Pagan*
   - James J. DiCarlo
   - Riccardo Zecchina
   - Davide Zoccolan
