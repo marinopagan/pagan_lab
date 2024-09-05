@@ -1,5 +1,5 @@
 
-# marinopaganDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Website for the Pagan Lab at the University of Edinburgh
 
 Visit **[www.marinopagan.com/pagan_lab](http://www.marinopagan.com/pagan_lab)** 🚀
 
