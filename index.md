@@ -34,7 +34,7 @@ To study the neural basis of flexible decision-making, we train rats to perform 
 
 ### How do neural computations underlying cognitive behavior vary across individuals?
 
-[Our recent work](https://doi.org/gsx659) indicates that individual rats can use different neural mechanisms to perform an identical cognitive task. These findings highlight the importance of measuring and characterizing neural circuits at the level of individual animals. To achieve this goal, we leverage a system for automated, high-throughput behavioral training, integrated with wireless electrophysiology and optogenetics. These techniques allow us to study the learning trajectory of each individual animal, and to explore the neural substrates of individual variability.
+[Our recent work](https://www.nature.com/articles/s41586-024-08433-6) indicates that individual rats can use different neural mechanisms to perform an identical cognitive task. These findings highlight the importance of measuring and characterizing neural circuits at the level of individual animals. To achieve this goal, we leverage a system for automated, high-throughput behavioral training, integrated with wireless electrophysiology and optogenetics. These techniques allow us to study the learning trajectory of each individual animal, and to explore the neural substrates of individual variability.
 
 {% endcapture %}
 

@@ -1,8 +1,7 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2022.11.28.518207
-  title: A new theoretical framework jointly explains behavioral and neural variability
-    across subjects performing flexible decision-making
+- id: doi.org/10.1038/s41586-024-08433-6 
+  title: Individual variability of neural computations underlying flexible decisions
   authors:
   - Marino Pagan
   - Vincent D Tang
@@ -11,8 +10,8 @@
   - Valerio Mante
   - David Sussillo
   - Carlos D. Brody
-  publisher: biorXiv
-  date: '2022-11-28'
+  publisher: Nature
+  date: '2024-11-28'
   link: https://www.marinopagan.com/pagan_lab/assets/Pagan_et_al_2022.pdf
   orcid: 0000-0002-4376-0283
   plugin: sources.py
