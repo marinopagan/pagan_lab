@@ -1,10 +1,10 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1038/s41586-024-08433-6 
+- id: doi:10.1038/s41586-024-08433-6
   title: Individual variability of neural computations underlying flexible decisions
   authors:
   - Marino Pagan
-  - Vincent D Tang
+  - Vincent D. Tang
   - Mikio C. Aoi
   - Jonathan W. Pillow
   - Valerio Mante
@@ -17,6 +17,23 @@
   plugin: sources.py
   file: sources.yaml
   image: images/pagan2022.png
+- id: doi:10.1101/2022.11.28.518207
+  title: A new theoretical framework jointly explains behavioral and neural variability
+    across subjects performing flexible decision-making
+  authors:
+  - Marino Pagan
+  - Vincent D Tang
+  - Mikio C. Aoi
+  - Jonathan W. Pillow
+  - Valerio Mante
+  - David Sussillo
+  - Carlos D. Brody
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-11-28'
+  link: https://doi.org/gsx659
+  orcid: 0000-0002-4376-0283
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41593-021-00865-x
   title: Collicular circuits for flexible sensorimotor routing
   authors:
