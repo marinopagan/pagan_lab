@@ -41,9 +41,6 @@
 - id: arxiv:0811.3247
   image: images/lemke.png
   link: https://www.marinopagan.com/pagan_lab/assets/Codenotti_DeRossi_Pagan_2008.pdf
-
-
-- id: arxiv:0811.3247
   type: article-journal
   title: "An Experimental Analysis of Lemke-Howson Algorithm"
   author:
