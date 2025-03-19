@@ -119,7 +119,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:0811.3247
-  title: An experimental analysis of Lemke-Howson algorithm
+  title: An Experimental Analysis of Lemke-Howson Algorithm
   authors:
   - Bruno Codenotti
   - Stefano De Rossi
@@ -128,6 +128,22 @@
   date: '2008-11-21'
   link: https://www.marinopagan.com/pagan_lab/assets/Codenotti_DeRossi_Pagan_2008.pdf
   image: images/lemke.png
+  type: article-journal
+  author:
+  - family: Codenotti
+    given: Bruno
+  - family: De Rossi
+    given: Stefano
+  - family: Pagan
+    given: Marino
+  container-title: arXiv
+  issued:
+    date-parts:
+    - - 2008
+      - 11
+      - 20
+  URL: https://arxiv.org/abs/0811.3247
+  number: arXiv:0811.3247v1
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2309.04030
