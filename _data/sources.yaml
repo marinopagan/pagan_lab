@@ -42,6 +42,25 @@
   image: images/lemke.png
   link: https://www.marinopagan.com/pagan_lab/assets/Codenotti_DeRossi_Pagan_2008.pdf
 
+
+- id: arxiv:0811.3247
+  type: article-journal
+  title: "An Experimental Analysis of Lemke-Howson Algorithm"
+  author:
+    - family: Codenotti
+      given: Bruno
+    - family: De Rossi
+      given: Stefano
+    - family: Pagan
+      given: Marino
+  container-title: "arXiv"
+  issued:
+    date-parts:
+      - [2008, 11, 20]
+  URL: "https://arxiv.org/abs/0811.3247"
+  number: "arXiv:0811.3247v1"
+
+
 - id: arxiv:2309.04030
   image: images/pagan2023.png
   link: https://www.marinopagan.com/pagan_lab/assets/Pagan_et_al_2023.pdf
