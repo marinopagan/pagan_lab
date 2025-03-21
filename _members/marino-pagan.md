@@ -7,7 +7,7 @@ links:
   home-page: https://sidb.org.uk/marino-pagan/
   orcid: 0000-0002-4376-0283
   google-scholar: BRWwxYwAAAAJ
-  twitter: marinopagan
+  bluesky: marinopagan.bsky.social
 ---
 
 My main scientific interest focuses on the neural mechanisms underlying cognitive flexibility, our remarkable ability to rapidly switch our thoughts and actions across different tasks.
