@@ -12,11 +12,11 @@
   - Carlos D. Brody
   publisher: Nature
   date: '2024-11-28'
-  link: https://www.marinopagan.com/pagan_lab/assets/Pagan_et_al_2022.pdf
+  link: https://www.marinopagan.com/pagan_lab/assets/Pagan_et_al_2025.pdf
   orcid: 0000-0002-4376-0283
   plugin: sources.py
   file: sources.yaml
-  image: images/pagan2022.png
+  image: images/pagan2025.png
 - id: doi:10.1101/2022.11.28.518207
   title: A new theoretical framework jointly explains behavioral and neural variability
     across subjects performing flexible decision-making
