@@ -61,8 +61,9 @@
   image: images/pagan2023.png
   link: https://www.marinopagan.com/pagan_lab/assets/Pagan_et_al_2023.pdf
 
-- id: doi:10.1038/s41586-024-08433-6 
+- id: doi:10.1038/s41586-024-08433-6
   publisher: Nature
+  date: '2025-03-01'
   image: images/pagan2025.png
   link: https://www.marinopagan.com/pagan_lab/assets/Pagan_et_al_2025.pdf
   
